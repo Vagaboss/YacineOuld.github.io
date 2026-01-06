@@ -17,12 +17,6 @@
 - Démo Streamlit : [Application](https://p13-perso-predictions-gjuillggcfzc9nwaby6fvj.streamlit.app/)
 - Rapport (PDF) : [Rapport](LIEN_RAPPORT_PDF)
 
-**synthèse: **  
-Projet mené de bout en bout (data → modèle → déploiement).  
-Développement d’un modèle de prévision + exposition via API et application de démo.  
-Apprentissage clé : privilégier des solutions simples, interprétables et exploitables.  
-Prochains axes : monitoring avancé, MLOps, feature engineering avancé, vulgarisation technique.
-
 ![](/images/P13IMG.PNG)
 ---
 
