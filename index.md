@@ -6,7 +6,7 @@
 
 ---
 
-## Projet personnel – Prévision des ventes à J+7 (M5 Forecasting – CA)
+## [Projet personnel – Prévision des ventes à J+7 (M5 Forecasting – CA)](https://github.com/Vagaboss/P13-perso-predictions)
 
 **Objectif :** prédire les ventes à **J+7** à partir de données historiques et calendaires, sur un périmètre volontairement simplifié (**Californie – CA**).  
 **Approche :** baseline + modèles ML (régression linéaire retenue), features temporelles + historiques, validation temporelle.  
