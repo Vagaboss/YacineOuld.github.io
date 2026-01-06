@@ -20,7 +20,7 @@
 ![](/images/P13IMG.PNG)
 ---
 
-## [Projet 2 : Analyse de données éducatives](https://github.com/Vagaboss/P2-EDU)
+## [Projet : Analyse de données éducatives](https://github.com/Vagaboss/P2-EDU)
 
 **Objectif :** identifier des pays à **fort potentiel** pour **l’expansion internationale** d’une EdTech, à partir des données éducatives de la Banque mondiale.
 
@@ -29,3 +29,13 @@
 **Livrable :** notebook Jupyter structuré, insights exploitables et recommandations de pays (notamment États-Unis et Chine).
 
 ![](/images/p2img.PNG)
+
+## [Projet : Cycle Mlops](https://github.com/Vagaboss/Projet-8-MLOPS2)
+
+**Objectif :** concevoir et déployer une solution de machine learning industrialisable, permettant de prédire un score métier (scoring crédit) tout en intégrant les enjeux de coût business, de traçabilité et de performance en production.
+
+**Approche :**structuration complète d’un projet MLOps : préparation et fusion des données, entraînement et comparaison de plusieurs modèles de classification, optimisation des hyperparamètres et du seuil de décision selon un coût métier pondéré, puis mise en place d’une API de prédiction, du tracking des expériences, du versioning des modèles et du monitoring (dérive des données, performances).
+
+**Livrables :** pipeline d’apprentissage robuste, modèle déployé via API (FastAPI), base de données de logs (inputs/outputs), rapports de monitoring (drift), CI/CD fonctionnelle et documentation technique permettant une mise en production fiable et évolutive.
+
+![]()
