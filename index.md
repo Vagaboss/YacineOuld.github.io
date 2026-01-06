@@ -20,7 +20,7 @@
 ![](/images/P13IMG.PNG)
 ---
 
-## [Projet 2 : Analyse de données éducatives](https://github.com/Vagaboss/P2-EDU)](https://github.com/Vagaboss/P2-EDU)
+## [Projet 2 : Analyse de données éducatives](https://github.com/Vagaboss/P2-EDU)
 
 **Objectif :** identifier des pays à **fort potentiel** pour **l’expansion internationale** d’une EdTech, à partir des données éducatives de la Banque mondiale.
 
