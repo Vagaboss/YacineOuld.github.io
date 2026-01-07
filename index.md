@@ -4,6 +4,15 @@
 
 📌 **Liens** : [LinkedIn](https://www.linkedin.com/in/yacine-ould-abdel-vetah-2364a62a3/) · [GitHub](https://github.com/Vagaboss) · [CV](LIEN_CV_OPTIONNEL)
 
+
+## 🗺️ Carte mentale – compétences & parcours
+
+<a href="assets/Steps of Problem Solving.png">
+  <img src="assets/Steps of Problem Solving.png" alt="Carte mentale – cliquer pour zoomer" width="650">
+</a>
+
+*Cliquer sur l’image pour l’agrandir.*
+
 ---
 
 ## [Projet personnel – Prévision des ventes à J+7 (M5 Forecasting – CA)](https://github.com/Vagaboss/P13-perso-predictions)
