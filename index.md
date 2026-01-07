@@ -41,7 +41,7 @@
 ![](/images/p8img.PNG)
 
 
-## [Projet : Mise en place RAG LLM](https://github.com/Vagaboss/Projet-8-MLOPS2)
+## [Projet : Mise en place RAG LLM](https://github.com/Vagaboss/Projet-9-RAG)
 
 **Objectif :**
 Développer un agent conversationnel basé sur une architecture RAG capable de recommander des événements culturels pertinents à partir de données externes, accessible via une API.
