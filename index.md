@@ -38,4 +38,46 @@
 
 **Livrables :** pipeline d’apprentissage robuste, modèle déployé via API (FastAPI), base de données de logs (inputs/outputs), rapports de monitoring (drift), CI/CD fonctionnelle et documentation technique permettant une mise en production fiable et évolutive.
 
-![]()
+![](/images/p8img.PNG)
+
+
+## [Projet : Mise en place RAG LLM](https://github.com/Vagaboss/Projet-8-MLOPS2)
+
+**Objectif :**
+Développer un agent conversationnel basé sur une architecture RAG capable de recommander des événements culturels pertinents à partir de données externes, accessible via une API.
+
+**Approche :**
+Collecte et préparation de données OpenAgenda, vectorisation sémantique, construction d’une base FAISS, génération de réponses augmentées par un LLM (Mistral), exposition du système via FastAPI et évaluation automatique avec RAGAS.
+
+**Livrables :**
+API REST fonctionnelle, base vectorielle persistée, conteneur Docker exécutable localement, script d’évaluation RAGAS et documentation technique 
+
+![](/images/p9img.PNG)
+
+## [Projet : Evaluation LLM](https://github.com/Vagaboss/Projet-10-eval-LLM)
+
+**Objectif :**
+Développer un assistant conversationnel basé sur une architecture RAG enrichie par une base SQL, capable d’analyser et d’expliquer des statistiques NBA en combinant données textuelles (Reddit) et données chiffrées (PostgreSQL), avec visualisation automatique.
+
+**Approche :**
+Indexation de documents textuels (PDF Reddit) via FAISS, intégration d’une base SQL NBA, orchestration RAG + SQL avec Mistral, génération de graphiques dynamiques (PlotTool) et évaluation des performances à l’aide de RAGAS et Pydantic Logfire.
+
+**Livrables :**
+Application Streamlit fonctionnelle, base vectorielle FAISS persistée, base PostgreSQL exploitée par SQL Tool, scripts d’évaluation RAGAS, monitoring Logfire et documentation complète 
+
+![](/images/p10img.PNG)
+
+## [Projet : Recommandation AGRITECH](https://github.com/Vagaboss/P12)
+
+**Objectif :**
+Développer une application d’aide à la décision agricole capable de prédire le rendement des cultures et de recommander les cultures les plus rentables selon les conditions climatiques et agronomiques.
+
+**Approche :**
+Analyse exploratoire et ACP, entraînement et comparaison de modèles de régression, optimisation des performances et interprétation métier des résultats.
+Déploiement du modèle via une API FastAPI, création d’une interface Streamlit et automatisation complète avec Docker et CI/CD.
+
+**Livrables :**
+API FastAPI de prédiction et recommandation, application Streamlit interactive, modèle entraîné et évalué avec MLflow.
+Pipeline CI/CD GitHub Actions, image Docker déployée, documentation technique et rapport métier
+
+![](/images/p12img.PNG)
