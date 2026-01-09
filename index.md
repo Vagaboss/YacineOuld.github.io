@@ -29,6 +29,11 @@
 ![](/images/P13IMG.PNG)
 ---
 
+### 📄 Rapport de formation Openclassrooms
+
+👉 **[Consulter le rapport (PDF)](assets/rapport synthétique.pdf)**
+
+
 ## [Projet : Analyse de données éducatives](https://github.com/Vagaboss/P2-EDU)
 
 **Objectif :** identifier des pays à **fort potentiel** pour **l’expansion internationale** d’une EdTech, à partir des données éducatives de la Banque mondiale.
