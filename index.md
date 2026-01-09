@@ -31,7 +31,7 @@
 
 ### 📄 Rapport de formation Openclassrooms
 
-👉 **[Consulter le rapport (PDF)](assets/rapport_synthetique.pdf)**
+👉 **[Consulter le rapport (PDF)](assets/Rapport_synthetique.pdf)**
 
 
 ## [Projet : Analyse de données éducatives](https://github.com/Vagaboss/P2-EDU)
