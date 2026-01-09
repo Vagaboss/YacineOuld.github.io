@@ -29,7 +29,7 @@
 ![](/images/P13IMG.PNG)
 ---
 
-### 📄 Rapport de formation Openclassrooms
+## 📄 Rapport de formation Openclassrooms
 
 👉 **[Consulter le rapport (PDF)](assets/Rapport_synthetique.pdf)**
 
