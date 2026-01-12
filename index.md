@@ -29,9 +29,9 @@
 ![](/images/P13IMG.PNG)
 ---
 
-## 📄 Rapport de formation Openclassrooms
+## 📄 Rapport de conduite de mon projet personnel 
 
-👉 **[Consulter le rapport (PDF)](assets/Rapport_synthetique.pdf)**
+👉 **[Consulter le rapport (PDF)](assets/Rapport_conduite_projet.pdf)**
 
 
 ## [Projet : Analyse de données éducatives](https://github.com/Vagaboss/P2-EDU)
