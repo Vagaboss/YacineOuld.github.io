@@ -24,7 +24,7 @@
 ✅ **Voir / tester :**
 - Repo : [GitHub](https://github.com/Vagaboss/P13-perso-predictions)
 - Démo Streamlit : [Application](https://p13-perso-predictions-gjuillggcfzc9nwaby6fvj.streamlit.app/)
-- Rapport (PDF) : [Rapport](LIEN_RAPPORT_PDF)
+- Rapport (PDF) : [Rapport](assets/Rapport_synthetique.pdf)
 
 ![](/images/P13IMG.PNG)
 ---
