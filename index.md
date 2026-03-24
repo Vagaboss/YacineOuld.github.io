@@ -2,7 +2,7 @@
 
 👋 Bonjour ! Je me forme et me spécialise en **Data Science & Machine Learning**, avec une approche orientée **projets concrets** et **mise en production** (API, CI, déploiement).
 
-📌 **Liens** : [LinkedIn](https://www.linkedin.com/in/yacine-ould-abdel-vetah-2364a62a3/) · [GitHub](https://github.com/Vagaboss) · [CV](LIEN_CV_OPTIONNEL)
+📌 **Liens** : [LinkedIn](https://www.linkedin.com/in/yacine-ould-abdel-vetah-2364a62a3/) · [GitHub](https://github.com/Vagaboss) · [CV](assets/cvyassdata2026.pdf)
 
 
 ## 🗺️ Carte mentale – compétences & parcours
